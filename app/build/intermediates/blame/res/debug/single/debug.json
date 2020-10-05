@@ -1,0 +1,658 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p9.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\p9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr9.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr14.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hugge3.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\hugge3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ac1.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ac1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giphy5.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giphy5.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_irishcoffee.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\irishcoffee.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mokko.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mokko.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p2.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\p2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_learn.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\fragment_learn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_americano.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\americano.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hugge7.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\hugge7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ac8.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ac8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_r5.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\r5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icedlatte.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\icedlatte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_barista.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\barista.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_school.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_school.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_capp.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\capp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mol4.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mol4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_one.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\one.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr8.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mol5.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mol5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p8.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\p8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ac9.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ac9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giphy4.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giphy4.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giphy.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giphy.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hugge8.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\hugge8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ac2.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ac2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giphy_a.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giphy_a.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p1.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\p1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_accessors.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\activity_accessors.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_espresso1.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\espresso1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_item.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\image_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr1.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr5.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_r4.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\r4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_example_item.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\example_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hugge5.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\hugge5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giphy7.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giphy7.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_serna.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\serna.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mol6.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mol6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_translate_anim.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\anim\\translate_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giphy3.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giphy3.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr6.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr6.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mol.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mol.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mol9.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mol9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hugge1.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\hugge1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_cosiness.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_cosiness.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_r3.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\r3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_row.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\my_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cosiness.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\activity_cosiness.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr13.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_share.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_add.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giphy6.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giphy6.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rr2.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\rr2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_peoples.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_peoples.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mol3.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mol3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_parts.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\activity_parts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ac7.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ac7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p6.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\p6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr10.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giphy_f.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giphy_f.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ac4.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ac4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr3.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p3.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\p3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giph.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giph.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_r1.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\r1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_coffe_mol.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\activity_coffe_mol.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_affogato.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\affogato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_latte.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\latte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr11.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hugge4.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\hugge4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giphy1.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giphy1.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ac5.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ac5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_instruments_list.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\fragment_instruments_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ac10.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ac10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_coffee.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_coffee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_white.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\white.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pastuh.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\pastuh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_photo_black_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mol1.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mol1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hugge2.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\hugge2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_machiato1.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\machiato1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr4.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mol8.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mol8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p5.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\p5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ac6.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ac6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_catalog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_catalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_instr2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_instr2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr12.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_comments.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\fragment_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_conpanna.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\conpanna.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_roast.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\activity_roast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p7.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\p7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mol2.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mol2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ac3.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ac3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\fragment_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hugge9.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\hugge9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\row_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cop.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\cop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_list.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hugge.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\hugge.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr7.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p4.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\p4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_home.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_photo_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_photo_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_raf.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\raf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frappe.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\frappe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hugge6.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\hugge6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scroll_tab.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\activity_scroll_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mol7.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\mol7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_meet.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\meet.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_instr2.jpeg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\instr2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_giphy2.gif.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\giphy2.gif"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_coffee.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\drawable-v24\\coffee.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_instr.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\item_instr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

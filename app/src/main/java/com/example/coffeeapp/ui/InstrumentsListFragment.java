@@ -14,6 +14,7 @@ import com.example.coffeeapp.R;
 import com.example.coffeeapp.ui.instruments.accessories.AccessorsActivity;
 import com.example.coffeeapp.ui.instruments.coffeemachine.MainActivity2;
 import com.example.coffeeapp.ui.instruments.coffemol.CoffeeMolActivity;
+import com.example.coffeeapp.ui.instruments.parts.Parts;
 import com.example.coffeeapp.ui.instruments.parts.PartsActivity;
 import com.example.coffeeapp.ui.instruments.roast.RoastActivity;
 

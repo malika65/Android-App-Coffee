@@ -1,0 +1,4 @@
+#Mon Oct 05 15:09:10 ALMT 2020
+base.0=C\:\\Users\\Lenovo\\AndroidStudioProjects\\CoffeeApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

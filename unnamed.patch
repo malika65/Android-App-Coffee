@@ -1,0 +1,18 @@
+Index: app/src/main/java/com/example/coffeeapp/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/coffeeapp/MainActivity.java	(revision 1f5fc96ca94faf84ec6e07ae18a9fc48f7ebe686)
++++ app/src/main/java/com/example/coffeeapp/MainActivity.java	(revision 10dabd721810a9cb50ff10fd36494c246c0aee62)
+@@ -7,7 +7,10 @@
+ import android.view.Menu;
+ import android.widget.Button;
+ import android.widget.LinearLayout;
++import com.google.android.material.floatingactionbutton.FloatingActionButton;
++import com.google.android.material.snackbar.Snackbar;
+ import com.google.android.material.navigation.NavigationView;
++
+ import androidx.annotation.NonNull;
+ import androidx.navigation.NavController;
+ import androidx.navigation.Navigation;
