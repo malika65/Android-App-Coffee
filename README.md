@@ -2,7 +2,7 @@
 
 ## Final result screenshot:
 
-## Home page with horizontalRecyclerView. There are gif view.
+## Home page with horizontalRecyclerView. There are gifs in view.
 ![Home Page](https://i.imgur.com/1aWOpC9.jpg)
 ![Home Page](https://i.imgur.com/T5ircKv.jpg)
 
