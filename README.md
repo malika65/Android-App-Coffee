@@ -1,6 +1,8 @@
 # Android-App-Coffee(with .apk in build) 
 
-## Final result screenshot:
+## Final result screenshot: Application icon changed
+![App icon](https://i.imgur.com/FfJg3XV.jpg)
+
 
 ## Home page with horizontalRecyclerView. There are gifs in view.
 ![Home Page](https://i.imgur.com/1aWOpC9.jpg)
