@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    tools:context=".ui.InstrumentsListFragment"
+    android:background="#FFFF"
+    android:orientation="vertical"
+    android:id="@+id/line_list">
+
+    <RelativeLayout
+        android:id="@+id/coffee_machine"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:background="#252223"
+        android:clickable="true"
+        android:onClick="buttonClicked"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/image_instr_list_1"
+            android:layout_width="100dp"
+            android:layout_height="70dp"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/espresso1" />
+
+        <TextView
+            android:id="@+id/text_instr_list_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_toEndOf="@id/image_instr_list_1"
+            android:gravity="center"
+            android:text="Кофемашины и кофеварки"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/coffee_mol"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:background="#252223"
+        android:layout_margin="5dp"
+        android:clickable="true"
+        android:onClick="buttonClicked">
+
+        <ImageView
+            android:id="@+id/image_instr_list_2"
+            android:layout_width="100dp"
+            android:layout_height="70dp"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/espresso1" />
+
+        <TextView
+            android:id="@+id/text_instr_list_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/image_instr_list_2"
+            android:text="Кофемолки"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="15dp"/>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/accessors"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:background="#252223"
+        android:layout_margin="5dp"
+        android:clickable="true"
+        android:onClick="buttonClicked">
+
+        <ImageView
+            android:id="@+id/image_instr_list_3"
+            android:layout_width="100dp"
+            android:layout_height="70dp"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/espresso1" />
+
+        <TextView
+            android:id="@+id/text_instr_list_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/image_instr_list_3"
+            android:text="Аксессуары для кофе машин"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="15dp"/>
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/parts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:background="#252223"
+        android:layout_margin="5dp"
+        android:clickable="true"
+        android:onClick="buttonClicked">
+
+        <ImageView
+            android:id="@+id/image_instr_list_4"
+            android:layout_width="100dp"
+            android:layout_height="70dp"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/espresso1" />
+
+        <TextView
+            android:id="@+id/text_instr_list_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/image_instr_list_4"
+            android:text="Запчасти на кофе машины, кофемолки"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="15dp"/>
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/roster"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:background="#252223"
+        android:layout_margin="5dp"
+        android:clickable="true"
+        android:onClick="buttonClicked">
+        <ImageView
+            android:id="@+id/image_instr_list_5"
+            android:layout_width="100dp"
+            android:layout_height="70dp"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/espresso1" />
+        <TextView
+            android:id="@+id/text_instr_list_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/image_instr_list_5"
+            android:text="Ростер для обжарки кофе"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="15dp"/>
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_coffee"
+            android:title="@string/menu_home"
+            />
+        <item android:id="@+id/nav_list"
+            android:icon="@drawable/ic_catalog"
+            android:title="@string/menu_list"
+            />
+        <item android:id="@+id/nav_cosiness"
+            android:icon="@drawable/ic_cosiness"
+            android:title="@string/menu_cosiness"
+            />
+
+        <item android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info"
+            android:title="@string/menu_info"
+            />
+    </group>
+
+    <item android:title="Для кофемана">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_instrument"
+                    android:icon="@drawable/ic_instr2"
+                    android:title="Инструменты кофемана" />
+                <item
+                    android:id="@+id/nav_learn"
+                    android:icon="@drawable/ic_school"
+                    android:title="Обучение баристике" />
+            </group>
+        </menu>
+    </item>
+</menu>
