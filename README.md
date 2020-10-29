@@ -1,4 +1,5 @@
 # Android-App-Coffee(with .apk in build) 
+## This application can be used for coffee house. There are review of the types of coffee and some recepies, also there is a link to website of coffee house. Interesting information and cosiness images are waiting for you. Also you can put your comments on them. 
 # Figma : https://www.figma.com/file/cEXJh12W2iG73jFUWEBubn/Coffee?node-id=0%3A1
 
 ## Final result screenshot: Application icon changed
